@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Store Data Real Time</string>
+    <string name="saving">saving...</string>
+    <string name="enter_topic_name">Enter topic name</string>
+    <string name="enter_description">Enter description</string>
+    <string name="enter_language">Enter language</string>
+</resources>
